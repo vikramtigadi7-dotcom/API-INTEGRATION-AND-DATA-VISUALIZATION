@@ -20,3 +20,7 @@ DURATION - 6 WEEKS
 
 
 BATCH - AG26
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/74bf77fe-ae07-45e8-bb55-1cc315a802ae)
